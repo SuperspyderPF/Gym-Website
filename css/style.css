@@ -17,7 +17,7 @@ nav li{
 }
 
 nav ul{
-    background-color: green;
+    background-color: rgb(19, 20, 19);
     margin: 0;
     list-style-type:none;
     width: 100;
@@ -41,7 +41,7 @@ nav a:hover{
 }
 
 .hero-image{
-    background-image: linear-gradient(rgba(143, 17, 17, 0.5),rgba(5, 233, 74, 0.5)),url("../images/851961.jpg"); /* The image used */
+    background-image: linear-gradient(rgba(143, 17, 17, 0.5),rgba(5, 233, 74, 0.5)),url("../images/Sparring.jpg"); /* The image used */
     background-color: rgb(0, 0, 0);
     height: 50%;
     background-position: center; /* Center the image */
